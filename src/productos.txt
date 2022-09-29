@@ -1,0 +1,26 @@
+[{
+    "title": "Lata",
+    "price": 100,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Konservendose-1.jpg/800px-Konservendose-1.jpg",
+    "id": 1
+}, {
+    "title": "Botella",
+    "price": 200,
+    "thumbnail": "https://img.freepik.com/fotos-premium/botellas-plastico-agua-aisladas-blanco-trazado-recorte_105428-2911.jpg?w=2000",
+    "id": 2
+}, {
+    "title": "Balde",
+    "price": 300,
+    "thumbnail": "https://www.papelerarivadavia.com.ar/wp-content/uploads/2021/05/balde.jpg",
+    "id": 3
+}, {
+    "title": "Bidon",
+    "price": 400,
+    "thumbnail": "https://wasserkraft.com.ar/wp-content/uploads/2020/06/Pet-20-pag.jpg",
+    "id": 4
+}, {
+    "title": "Barril",
+    "price": 500,
+    "thumbnail": "http://d3ugyf2ht6aenh.cloudfront.net/stores/827/360/products/barril-50-litros1-9cf7bacbf785579cb815643392011467-640-0.png",
+    "id": 5
+}]
